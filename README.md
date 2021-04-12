@@ -8,5 +8,6 @@ node server.js
 ```
 ### start nextJS
 ```
+npm i
 npm run dev
 ```
